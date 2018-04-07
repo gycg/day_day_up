@@ -42,7 +42,7 @@ Ctrl-s|锁住终端
 Ctrl-q|恢复终端
 Ctrl-x-u|撤销操作
 
-### vim键盘操作技巧
+<h3 id="2">vim键盘操作技巧</h3>
 
 类似于shell，vim也有一套快捷键操作。vim有三种常用模式，Command mode、Insert mode和Last line mode。进入vim时所处的就是Command mode，以下快捷键大多是在这个mode下操作。按下a/i/o进入Insert mode， 可以开始编辑文本。在Command mode下输入冒号“：“进入Last line mode。
 #### vim命令行参数
